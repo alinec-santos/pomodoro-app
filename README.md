@@ -119,10 +119,6 @@ Clone o repositório:
 ```bash
 git clone <url-do-repositorio>
 ```
-Entre na pasta do projeto:
-```bash
-cd pomodoro-app
-```
 Instale as dependências:
 ```bash
 npm install
