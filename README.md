@@ -13,7 +13,7 @@ Mais do que o resultado final, o objetivo foi praticar a forma de pensar em **co
 ---
 ## Demonstração
 
-![Interface do Pomodoro](./src/assets/projeto-screenshot.png)
+[![Assista ao vídeo do projeto](https://img.youtube.com/vi/1zaMOkJ4vIU/0.jpg)](https://youtu.be/1zaMOkJ4vIU)
 ---
 
 ## O que a aplicação faz
