@@ -126,3 +126,6 @@ npm install
 Execute o projeto:
 ```bash
 npm run dev
+```
+
+Este projeto foi desenvolvido no repositório de estudos [fullstack-js-course](https://github.com/alinec-santos/fullstack-js-course.git).
